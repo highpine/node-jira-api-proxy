@@ -1,0 +1,28 @@
+{
+  "name": "node-jira-api-proxy",
+  "version": "0.0.1",
+  "description": "Node.js Jira API proxy library",
+  "main": "lib/jira-api-proxy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/highpine/node-jira-api-proxy.git"
+  },
+  "keywords": [
+    "jira",
+    "api",
+    "attlassian",
+    "proxy"
+  ],
+  "author": "Max Gopey <gopeyx@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/highpine/node-jira-api-proxy/issues"
+  },
+  "homepage": "https://github.com/highpine/node-jira-api-proxy#readme",
+  "dependencies": {
+    "request": "^2.72.0"
+  }
+}

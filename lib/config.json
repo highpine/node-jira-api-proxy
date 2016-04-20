@@ -1,0 +1,10 @@
+{
+    "proxyHeaderPrefix": "X-Jira-Proxy-",
+    "headersPreset": {
+        "accept": "application/json"
+    },
+    "remoteApiPath": "/rest/api/",
+    "remoteAuthPath": "/rest/auth/",
+    "authResources": ["/session"],
+    "strictSSL": true
+}
